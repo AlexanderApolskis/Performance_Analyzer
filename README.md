@@ -62,7 +62,21 @@ Example values:
 ---
 
 ## 📸 Example Screenshots
-*(Insert screenshots of your app here if you want!)*
+
+### Main Upload Page
+![Upload Page](assets/upload_page.png)
+
+### Average Stats and Feedback
+![Average Stats](assets/average_stats.png)
+
+### Stat Comparison Chart
+![Stat Comparison](assets/stats_chart.png)
+
+### Performance Score Table
+![Performance Table](assets/performance_table.png)
+
+### Performance Score Visualization
+![Performance Graph](assets/performance_graph.png)
 
 ---
 
